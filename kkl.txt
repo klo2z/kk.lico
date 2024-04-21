@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>kk.lico</title>
+  <style>
+ .social-links {
+        display: flex;
+        justify-content: center; /* Center the icons horizontally */
+        align-items: center; /* Align items in the middle vertically */
+        padding: 20px;
+        flex-wrap: wrap; /* Allows items to wrap onto the next line on small screens */
+    }
+    .social-links a {
+        display: block;
+        margin: 5px; /* Add some space around each link */
+        width: 60px; /* Set a specific width for each icon */
+    }
+    .social-links img {
+        width: 100%; /* Make the image fill the link element */
+        height: auto;
+    }
+    body {
+      background-image: url('iztars.png'); /* Replace 'background-image.jpg' with the path to your background image */
+      background-size: cover;
+      background-position: center;
+      color: #ede9e8; /* dark color */
+      font-family: 'Times New Roman', Times, serif; /* Times New Roman font */
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 20px;
+      border-radius: 10px;
+       box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Dark shadow */
+      background-color: #141414; /* Dark matte background */
+      animation: fadeIn 1s ease-out; /* Fade-in animation */
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 20px;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
+    }
+    .profile-pic {
+      display: block;
+      margin: 0 auto;
+      width: 200px;
+      height: 200px;
+      border-radius: 20px; /* Square shape with rounded corners */
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+    .basic-info {
+     margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      background-color: #1f1f1f; /* Dark matte background */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Dark shadow */
+      animation: slideIn 1s ease-out; /* Slide-in animation */
+    }
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .info-section {
+      margin-bottom: 20px;
+    }
+    .info-section h3 {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .info-section p {
+      font-size: 1em;
+    }
+    .footnote {
+      text-align: center;
+      font-size: 0.8em;
+      margin-top: 50px;
+ }
+    .images {
+      text-align: center; /* Center images */
+    }
+    .image-with-text {
+      display: inline-block;
+      margin: 0 10px; /* Add space between images */
+    }
+
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>ʚ 🍵՞ ̼ hi ⋆</h1>
+  <div class="profile-pic">
+    <img src="1.jpg" alt="">
+  </div>
+
+<div class="social-links">
+  
+    <!-- Link to Spotify -->
+    <a href="https://open.spotify.com/playlist/7GecugEDpKwitIT46PNP4e?si=0d38fe12ffdb4365">
+        <img src="m1.png" alt="Spotify Playlist">
+    </a>
+
+    <!-- Link to Instagram -->
+    <a href="https://www.instagram.com/kk.lico/">
+        <img src="m3.png" alt="Instagram">
+    </a>
+
+    <!-- Link to Facebook -->
+    <a href="https://www.facebook.com/kk.lico">
+        <img src="m2.png" alt="Facebook">
+    </a>
+</div>
+  <div class="basic-info">
+    <div class="info-section">
+      <h3>⩩: get to know me! 𓂃🪷៹࣪</h3>
+      <p>୨୧ my name is ⟡ Kamala Kimberly Lico ⟡ and i just turned ➛20 last week! (15th of april)</p>
+<p>⇢ i live in the city of ˗ˏˋGeneral Santos´ˎ˗</p>
+    </div>
+    <div class="info-section">
+      <h3>๋࣭my interests ࣭ ⭑⚝</h3>
+      <p>♫⋆｡♪ i adore listening to music. i am grateful that this art exists. ₊˚♬ ﾟ.</p>
+</div>
+    <div class="info-section">
+      <h3>°.🍓this is a list ̟ !! (familiar? huiee)</h3>
+      <p>⊹ zodiac sign: april aries rising ♈︎</p>
+<p>⊹ year and course: second year of suffering BAELS student (╥﹏╥)</p>
+<p>⊹ gender: since i am attracted to both men and women, i therefore consider myself bisexual 🏳️‍🌈 ₊˚✩⊹</p>
+</div>
+    <div class="info-section">
+      <h3>.ᐣ.ᐟ questions you may or may not wanna ask ‧₊˚ ⋅</h3>
+     <p>✩ do i watch anime?</p>
+<p>⤷ the answer is yes ᯣ.ᯣ</p>
+<p>✩ what's your fav anime?</p>
+<p>⤷ my comfort movie will always be Haikyu!🏐 </p>
+<p>✩ what specific music genre do you listen to?</p>
+<p>⤷ tbh, i don't have a specific one, bcs for me, when a song is good and it do slaps, THEN IT SLAPS. ✦</p>
+ <div class="info-section">
+      <h3>------------------------------------------------------------------------------------------------------------------------</h3>
+<p>. ݁₊ ⊹ . ݁˖ . ݁</p>
+<p>stan 21savage!! <𝟑</p>
+    </div>
+   
+  </div>
+</div>
+
+<div class="images">
+  <div class="image-with-text">
+    <img src="iztar.jpg" alt="Image 1" width="50" height="50">
+    <p>⩇⩇:⩇⩇</p>
+  </div>
+   
+</div>
+
+
+<div class="footnote">
+  <p>@kk.lico</p>
+</div>
+
+</body>
+</html>
+
